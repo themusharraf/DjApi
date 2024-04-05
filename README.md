@@ -1,6 +1,6 @@
 # Django Rest Framework example
 
-```
+``` 
 pip install -r requirements.txt
 ```
 ```
