@@ -1,5 +1,4 @@
 # Django Rest Framework example
-https://www.django-rest-framework.org/img/logo.png
 
 
 ```
